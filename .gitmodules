@@ -1,0 +1,6 @@
+[submodule "stm32-demo-master"]
+	path = stm32-demo-master
+	url = https://github.com/Velho/stm32-demo-master.git
+[submodule "stm32-demo-slave"]
+	path = stm32-demo-slave
+	url = https://github.com/Velho/stm32-demo-slave.git
